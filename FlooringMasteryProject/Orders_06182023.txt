@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,ada,CA,25.00,tile,110.00,3.50,4.15,385.00,456.50,210.38,1051.88,06182023
+1,ada,CA,25.00,tile,110.00,3.50,4.15,385.00,456.50,210.38,1051.88,06182023
+2,bob,KY,6.00,wood,120.00,5.15,4.75,618.00,570.00,71.28,1259.28,06182023

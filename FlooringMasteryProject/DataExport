@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,CreateDate
+1,ada,CA,25.00,tile,110.00,3.50,4.15,385.00,456.50,210.38,1051.88,06182023
